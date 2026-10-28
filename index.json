@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "nbgitpuller",
+  "versions": [
+    {
+      "commit": "f7dce435044a769dfab00ed1214a7851f0b60797",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:49:08.113344+00:00"
+    }
+  ]
+}
